@@ -1,0 +1,34 @@
+Bachelor's Thesis Guidelines - Example University of Applied Sciences (fictional sample document)
+
+1. Purpose and scope
+
+The bachelor's thesis is worth 15 ECTS credits, which equals about 400 hours of work. It demonstrates that you can apply your professional knowledge to a practical development task or research question, usually commissioned by a company or organisation. The thesis is written individually or, with the approval of the supervisor, in pairs.
+
+2. Prerequisites
+
+You can start the thesis after earning at least 150 ECTS credits (180 credits in the 240-credit programmes) and completing the Research and Development Methods course.
+
+3. Process and timeline
+
+Step 1: Choose a topic. Pick a topic related to your degree programme, ideally from a working-life partner. Submit a one-page topic proposal to the thesis coordinator.
+Step 2: Thesis plan. Within four weeks of topic approval, submit a plan that includes the objectives, research questions, methods, and schedule. You are assigned a supervisor after the plan is approved.
+Step 3: Write the thesis. Meet your supervisor regularly. Expect at least three supervision meetings. Present your work in progress at one thesis seminar.
+Step 4: Plagiarism check. Upload the final draft to the plagiarism detection system before submission. Your supervisor reviews the report.
+Step 5: Submission. Submit the thesis through the thesis portal. The submission deadlines are 15 January, 15 April, 15 September and 15 November.
+Step 6: Maturity test. A short essay written in a supervised setting, demonstrating your command of the topic and language.
+
+4. Length and format
+
+The main text of the thesis should be 30 to 50 pages, excluding the appendices and the reference list. Use 11 or 12 point font with 1.5 line spacing. Cite sources consistently using the APA 7th edition style. Every thesis must contain an abstract in English of at most 250 words.
+
+5. Assessment
+
+The thesis is graded on the scale 0 to 5 by the supervisor and a second examiner. The assessment considers the relevance of the topic, the methods, the quality of the results, the reflection, and the language and layout. The grade is announced within 30 days of submission.
+
+6. Publishing
+
+Theses are published in the open online repository unless the commissioning company requires confidentiality. You choose between publishing, publishing with an embargo of up to two years, or keeping the thesis confidential. Confidential theses cannot be published in the repository, but the title and abstract can be.
+
+7. Use of AI tools
+
+Generative AI may be used as a support tool, for example for language checking and brainstorming. You remain fully responsible for the content. All use of AI must be described in the methods section or in an appendix, and AI-generated text must never be presented as your own analysis.

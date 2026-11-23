@@ -1,0 +1,27 @@
+Library and IT Services - Example University of Applied Sciences (fictional sample document)
+
+Library
+
+Opening hours: The campus library is open Monday to Thursday from 8:00 to 20:00, on Fridays from 8:00 to 17:00, and on Saturdays from 10:00 to 15:00. It is closed on Sundays and public holidays. Self-service is available to students with a valid ID card from 6:00 to 22:00 every day.
+
+Borrowing: Students can borrow up to 30 items at a time. The standard loan period is 28 days, and course books on reserve have a 7-day loan period. You can renew an item up to five times online unless another customer has reserved it. The overdue fine is 0.30 euros per day per item, with a maximum of 15 euros per item.
+
+E-resources: The library provides access to e-books, scientific journals and databases. Off-campus access requires logging in with your university username. If you cannot access a database, check that you are signed in and contact the library at the information desk or by email.
+
+Study spaces: There are 12 group study rooms that can be booked online for up to two hours per day. Quiet study areas are on the second floor. Eating is not allowed in the study rooms, but drinks with a lid are fine.
+
+Printing and scanning: Printing costs 0.05 euros per black-and-white page and 0.20 euros per colour page. Scanning to email is free. Top up your print credit at the machines near the entrance or in the student portal.
+
+IT services
+
+User account: Every student receives a university user account upon enrolment. Activate it at the account activation page with the code in your admission letter. The account gives you access to email, the learning platform, Microsoft 365 and the Wi-Fi network.
+
+Password: Passwords expire every 12 months. To reset a forgotten password, use the self-service password reset page with your phone number and personal email. If it does not work, visit the IT helpdesk with a photo ID.
+
+Wi-Fi: Connect to the "Campus-Secure" network with your username and password. Guests can use the "Campus-Guest" network, which requires registration and lasts 24 hours. Eduroam is supported for visitors from other universities.
+
+IT helpdesk: The helpdesk is located on the ground floor near the main entrance. It is open Monday to Friday from 8:30 to 16:00. You can also reach it by email or by phone. The helpdesk helps with account issues, Wi-Fi, software installation, and printing problems. It does not repair private laptops.
+
+Software: Students can download Microsoft 365, Adobe Creative Cloud (for design programmes only), and several engineering tools for free using their university account. Licences end when your student status ends.
+
+Security: Never share your password. The IT department will never ask for your password by email. Report suspected phishing messages to the helpdesk.
